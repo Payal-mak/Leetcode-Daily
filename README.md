@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
@@ -54,6 +56,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
 |  |
@@ -66,6 +69,7 @@
 ## Counting
 |  |
 | ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
@@ -93,4 +97,5 @@
 |  |
 | ------- |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 <!---LeetCode Topics End-->
