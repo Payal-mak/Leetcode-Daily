@@ -111,6 +111,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Combinatorics
 |  |
@@ -142,8 +143,10 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
