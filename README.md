@@ -21,11 +21,13 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Two Pointers
 |  |
@@ -55,6 +57,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Hash Table
 |  |
@@ -174,5 +177,6 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
