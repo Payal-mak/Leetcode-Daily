@@ -21,6 +21,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -166,4 +167,12 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Tree
+|  |
+| ------- |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
