@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -21,6 +22,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -89,6 +91,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -181,4 +184,8 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
