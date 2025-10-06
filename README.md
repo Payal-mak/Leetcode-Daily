@@ -8,6 +8,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -28,6 +29,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Hash Table
 |  |
@@ -97,6 +100,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -124,6 +128,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -190,9 +195,11 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 ## Matrix
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
