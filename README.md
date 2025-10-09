@@ -24,6 +24,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
