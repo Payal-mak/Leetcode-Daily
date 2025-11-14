@@ -8,6 +8,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
+| [0485-max-consecutive-ones](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
