@@ -1,18 +1,15 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int maxlen = 0;
-        int n = s.size();
-        for(int i = 0; i < n; i++){
-            int hash[256] = {0}; // 0 initialized
-            for(int j = i; j < n; j++){
-                if(hash[s[j]] == 1){
-                    break;
-                }
-                int len = j - i + 1;
-                maxlen = max(maxlen, len);
-                hash[s[j]] = 1;
+        unordered_map<char, int> hash;   // stores character → last index
+        int l = 0, maxlen = 0;
+        for (int r = 0; r < s.size(); r++) {
+            // if character already seen and is inside current window
+            if (hash.count(s[r]) && hash[s[r]] >= l) {
+                l = hash[s[r]] + 1;     // move left pointer
             }
+            hash[s[r]] = r;            // store/update last seen index
+            maxlen = max(maxlen, r - l + 1);
         }
         return maxlen;
     }
