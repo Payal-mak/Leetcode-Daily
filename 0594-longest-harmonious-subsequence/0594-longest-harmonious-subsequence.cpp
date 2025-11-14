@@ -4,6 +4,7 @@ public:
         int maxlen = 0;
         int j = 0;
         sort(nums.begin(), nums.end());
+        if (nums.size() == 1) return 0;
         for(int i = 0; i < nums.size(); i++){
             while(nums[i] - nums[j] > 1){
                 j++;
