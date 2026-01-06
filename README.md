@@ -18,6 +18,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1975-maximum-matrix-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -103,6 +104,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1612-avoid-flood-in-the-city) |
+| [1975-maximum-matrix-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -227,6 +229,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
+| [1975-maximum-matrix-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 ## Binary Tree
 |  |
 | ------- |
