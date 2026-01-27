@@ -123,6 +123,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1612-avoid-flood-in-the-city) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
 |  |
 | ------- |
@@ -240,4 +241,12 @@
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
