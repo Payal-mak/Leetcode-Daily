@@ -29,6 +29,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -63,6 +64,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3617-find-the-original-typed-string-i) |
@@ -244,9 +246,11 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
