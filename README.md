@@ -53,6 +53,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0011-container-with-most-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1768-merge-strings-alternately](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1768-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -62,6 +63,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0205-isomorphic-strings) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1768-merge-strings-alternately](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1768-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
