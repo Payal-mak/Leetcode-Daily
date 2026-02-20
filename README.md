@@ -63,6 +63,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0205-isomorphic-strings) |
+| [0761-special-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0761-special-binary-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1768-merge-strings-alternately](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1768-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0761-special-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -258,4 +260,8 @@
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
