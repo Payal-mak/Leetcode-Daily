@@ -19,6 +19,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -256,6 +257,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 ## Binary Tree
 |  |
