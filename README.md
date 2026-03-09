@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -219,6 +220,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
 |  |
