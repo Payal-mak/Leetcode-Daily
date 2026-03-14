@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0011-container-with-most-water) |
+| [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
@@ -103,6 +104,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -200,6 +202,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0761-special-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
