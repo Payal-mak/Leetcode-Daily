@@ -5,22 +5,27 @@ using namespace std;
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
+        //loop through array
+        for(int i = 0; i < nums.size(); i++){
+            //take value and convert it to index
+            //we take absolute value because
+            int index = abs(nums[i])-1;
 
-        //this copies the elements of vectors into set
-        //this removes duplicates, and sorts the array
-        set<int> set_nums(nums.begin(), nums.end());
-        //this vector will store the missing numbers
-        vector<int> miss;
+            //then mark it visited
+            if(nums[index] > 0){
+                nums[index] = -nums[index];
+            }
 
-        //we loop from 1->n
-        for(int i = 1; i <= nums.size(); i++){
-            //if i is not present in the set
-            if(set_nums.find(i) == set_nums.end()){
-                //push the missing element in miss
-                miss.push_back(i);
+        }
+        //create a vector for storing the missing numbers
+        vector<int> result;
+        //loop through the array, if any element is positive, then it means
+        //index+1 was never visited, hence it is missing
+        for(int i = 0; i < nums.size(); i++){
+            if(nums[i] > 0){
+                result.push_back(i+1);
             }
         }
-
-        return miss;
+        return result;
     }
 };
