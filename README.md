@@ -16,6 +16,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1200-minimum-absolute-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1390-four-divisors) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -113,6 +114,7 @@
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1980-find-unique-binary-string) |
@@ -215,6 +217,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0761-special-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -315,4 +318,8 @@
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1980-find-unique-binary-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
