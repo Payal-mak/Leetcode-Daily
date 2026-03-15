@@ -1,23 +1,28 @@
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
-        vector<int> sorted = nums;
-        sort(sorted.begin(), sorted.end());
+        vector<int> count(101, 0);
 
-        unordered_map<int,int> mpp;
-
-        for(int i = 0; i < sorted.size(); i++){
-            if(mpp.find(sorted[i]) == mpp.end()){
-                mpp[sorted[i]] = i;
-            }
+        // Step 1: Count frequency
+        for(int num : nums){
+            count[num]++;
         }
 
-        vector<int> res;
-
-        for(int i = 0; i < nums.size(); i++){
-            res.push_back(mpp[nums[i]]);
+        // Step 2: Prefix sum
+        for(int i = 1; i <= 100; i++){
+            count[i] += count[i - 1];
         }
 
-        return res;
+        // Step 3: Build result
+        vector<int> result;
+
+        for(int num : nums){
+            if(num == 0)
+                result.push_back(0);
+            else
+                result.push_back(count[num - 1]);
+        }
+
+        return result;
     }
 };
