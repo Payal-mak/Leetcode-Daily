@@ -43,6 +43,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 | [3731-find-missing-elements](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3731-find-missing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -69,6 +70,7 @@
 | [1768-merge-strings-alternately](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1768-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
@@ -298,6 +300,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Tree
 |  |
 | ------- |
