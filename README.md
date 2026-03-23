@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -71,6 +72,7 @@
 | [0011-container-with-most-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1768-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
