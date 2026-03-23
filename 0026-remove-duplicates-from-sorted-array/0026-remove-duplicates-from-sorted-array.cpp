@@ -1,17 +1,23 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        //brute force approach
-        set<int> st;
-        for(int i = 0; i < nums.size(); i++){
-            st.insert(nums[i]);
-        }
-        //set will have only the unique elements stored. but we have to return nums where starting k elements are unique and remaining elements are kept blanks
+        //two pointer approach
         int i = 0;
-        for (auto it : st){
-            nums[i] = it; //copy back to the nums
+        for(int j = 1; j < nums.size(); j++){
+            //we check if arr[j] == arr[i]
+            //if yes, then continue
+            //if no, then do i++;
+            if(nums[j] == nums[i]){
+                continue;
+            }
             i++;
+            nums[i] = nums[j];
         }
-        return st.size();
+        //now i have to return count and also array till i
+        int count = 0;
+        for(int j = 0; j <= i; j++){
+            count++;
+        }
+        return count;
     }
 };
