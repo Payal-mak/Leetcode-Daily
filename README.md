@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -233,6 +235,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
