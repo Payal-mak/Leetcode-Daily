@@ -1,29 +1,34 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        //we will first count the number of 0's, 1's and 2's
-        //though i did with simple counting, not used two pointers
-        int count0 = 0, count1 = 0, count2 = 0;
+        //optimal approach
+        //dnf algorithm
+        //we will divide the whole array into four parts
 
-        for(int i = 0; i < nums.size(); i++){
-            if(nums[i] == 0){
-                count0++;
+        //0's -> 0 to low-1
+        //1's -> low to mid-1
+        //2's -> high+1 to n-1
+        //unsorted -> mid to high
+        int n = nums.size();
+        int mid = 0, high = n-1, low = 0;
+        //initially both low and mid pointers will point to the first element
+
+        while(mid <= high){
+            //for 0s
+            if(nums[mid] == 0){
+                swap(nums[low],nums[mid]);
+                mid++;
+                low++;
             }
-            if(nums[i] == 1){
-                count1++;
+            //for 1's
+            else if(nums[mid] == 1){
+                mid++;
             }
-            if(nums[i] == 2){
-                count2++;
+            //for 2's
+            else{
+                swap(nums[high], nums[mid]);
+                high--;
             }
-        }
-        for(int i = 0; i < count0; i++){
-            nums[i] = 0;
-        }
-        for(int i = count0; i < (count0+count1); i++){
-            nums[i] = 1;
-        }
-        for(int i = (count0+count1); i < (count0+count1+count2); i++){
-            nums[i] = 2;
-        }
+        } 
     }
 };
