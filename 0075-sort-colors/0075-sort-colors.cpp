@@ -2,6 +2,7 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
         //we will first count the number of 0's, 1's and 2's
+        //though i did with simple counting, not used two pointers
         int count0 = 0, count1 = 0, count2 = 0;
 
         for(int i = 0; i < nums.size(); i++){
