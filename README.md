@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
@@ -124,6 +125,7 @@
 | [0001-two-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
@@ -179,6 +181,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -236,6 +239,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
@@ -335,6 +339,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0761-special-binary-string) |
 ## Linked List
 |  |
