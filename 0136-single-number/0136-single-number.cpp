@@ -1,18 +1,14 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        //better approach
-        //using maps
-        int ans = 0;
-        unordered_map<int, int> mpp;
+        //optimal approach
+        //using XOR
+        //xor of same numbers is 0
+        //0 ^ (number) = number itself
+        int xorr = 0;
         for(int i = 0; i < nums.size(); i++){
-            mpp[nums[i]]++;
+            xorr ^= nums[i];
         }
-        for(auto it : mpp){
-            if(it.second == 1){
-                ans = it.first;
-            }
-        }
-        return ans;
+        return xorr;
     }
 };
