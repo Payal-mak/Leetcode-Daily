@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -360,6 +361,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0046-permutations) |
 | [1980-find-unique-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1980-find-unique-binary-string) |
 ## Counting Sort
 |  |
