@@ -56,6 +56,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 | [3731-find-missing-elements](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3731-find-missing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -289,6 +290,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
 |  |
@@ -338,6 +340,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Tree
 |  |
