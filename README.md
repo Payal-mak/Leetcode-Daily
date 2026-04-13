@@ -39,6 +39,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
