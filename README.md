@@ -102,6 +102,7 @@
 | [0205-isomorphic-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0205-isomorphic-strings) |
 | [0761-special-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0761-special-binary-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1390-four-divisors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1390-four-divisors) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
