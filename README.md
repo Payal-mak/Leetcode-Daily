@@ -24,6 +24,7 @@
 | [0485-max-consecutive-ones](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0605-can-place-flowers) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1200-minimum-absolute-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0605-can-place-flowers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
