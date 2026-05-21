@@ -50,6 +50,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1980-find-unique-binary-string) |
+| [1991-find-the-middle-index-in-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -234,6 +235,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1991-find-the-middle-index-in-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1991-find-the-middle-index-in-array) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
