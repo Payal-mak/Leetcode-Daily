@@ -26,6 +26,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0724-find-pivot-index) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1200-minimum-absolute-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
@@ -229,6 +230,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
