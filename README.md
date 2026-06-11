@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0283-move-zeroes) |
+| [0403-frog-jump](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -331,6 +332,7 @@
 | [0053-maximum-subarray](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0403-frog-jump) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
