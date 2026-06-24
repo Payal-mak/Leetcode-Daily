@@ -278,6 +278,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -336,6 +337,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0403-frog-jump) |
@@ -348,6 +350,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Bit Manipulation
 |  |
