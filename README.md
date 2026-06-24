@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0136-single-number) |
@@ -334,6 +335,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0403-frog-jump) |
@@ -384,6 +386,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
