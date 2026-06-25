@@ -31,8 +31,45 @@ public:
         vector<int> memo(n, -1);
         return memoiz(nums, memo, n-1);
     }
+    int helper1(vector<int>& nums, vector<int>& dp, int i){
+        dp[0] = nums[0];
+        dp[1] = max(nums[1], nums[0]);
+        for(int i = 2; i < nums.size(); i++){
+            int rob = max(
+                dp[i-2] + nums[i],
+                dp[i-1]
+            );
+            dp[i] = rob;
+        }
+        return dp[nums.size()-1];
+    }
+    int tabulation(vector<int>& nums, int n){
+        if(n == 0) return 0;
+        if(n == 1) return nums[0];
+        vector<int> dp(n+1);
+        return helper1(nums, dp, n-1);
+    }
+    int helper2(vector<int>& nums, int i){
+        int prev2 = nums[0];
+        int prev = max(nums[0], nums[1]);
+
+        for(int i = 2; i < nums.size(); i++){
+            int curr = max(
+                prev2 + nums[i],
+                prev
+            );
+            prev2 = prev;
+            prev = curr;
+        }
+        return prev;
+    }
+    int space_opt(vector<int>& nums, int n){
+        if(n == 0) return 0;
+        if(n == 1) return nums[0];
+        return helper2(nums, n-1);
+    }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        return memoization(nums, n);
+        return space_opt(nums, n);
     }
 };
