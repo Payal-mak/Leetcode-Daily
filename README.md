@@ -133,6 +133,7 @@
 | [0443-string-compression](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0709-to-lower-case) |
 | [0761-special-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0796-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -472,4 +473,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
