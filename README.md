@@ -37,6 +37,7 @@
 | [0704-binary-search](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0724-find-pivot-index) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
+| [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
+| [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -317,6 +319,7 @@
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0761-special-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -435,6 +438,7 @@
 | [0053-maximum-subarray](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -451,6 +455,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Database
 |  |
@@ -479,4 +484,16 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0796-rotate-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
