@@ -93,6 +93,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0743-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
+| [0743-network-delay-time](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -404,6 +406,7 @@
 | [0200-number-of-islands](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0743-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -429,11 +432,13 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0743-network-delay-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0743-network-delay-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Divide and Conquer
