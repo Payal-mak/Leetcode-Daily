@@ -34,6 +34,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0724-find-pivot-index) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1200-minimum-absolute-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
@@ -276,6 +277,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
