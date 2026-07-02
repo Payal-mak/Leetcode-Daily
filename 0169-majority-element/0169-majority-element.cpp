@@ -1,26 +1,20 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        //optimal approach
-        //moore voting algorithm
-        int count = 0;
-        int candidate = 0;
-
-        for(int num : nums){
-            if(count == 0){
-                candidate = num; //if it is a new element, whose count is 0, candidate = num
+        int n = nums.size();
+        int candidate = -1;
+        int votes = 0;
+        for(int i = 0; i < n; i++){
+            if(votes == 0){
+                candidate = nums[i];
             }
-            //if it is the same element, then simply do count++
-            if(num == candidate){
-                count++;
+            if(nums[i] == candidate){
+                votes++;
             }
-            //if it is different element, then decrement count
             else{
-                count--;
+                votes--;
             }
         }
-        //If the majority element has more than n/2 occurrences:
-        //The algorithm will ensure that the count remains positive for the majority element throughout the traversal, guaranteeing that it will be selected as the final candidate.
         return candidate;
     }
 };
