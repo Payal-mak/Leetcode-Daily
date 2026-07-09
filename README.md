@@ -62,6 +62,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1929-concatenation-of-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1980-find-unique-binary-string) |
@@ -351,6 +352,7 @@
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2751-robot-collisions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2751-robot-collisions) |
