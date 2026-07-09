@@ -311,6 +311,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2544-alternating-digit-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2544-alternating-digit-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
