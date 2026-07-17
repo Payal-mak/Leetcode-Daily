@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
@@ -167,6 +168,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0204-count-primes) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -308,6 +310,7 @@
 | [0069-sqrtx](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -498,6 +501,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
