@@ -321,6 +321,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2544-alternating-digit-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2544-alternating-digit-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3536-maximum-product-of-two-digits](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -357,6 +358,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3536-maximum-product-of-two-digits](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
