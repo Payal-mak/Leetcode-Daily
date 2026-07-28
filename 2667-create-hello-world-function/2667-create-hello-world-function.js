@@ -2,8 +2,8 @@
  * @return {Function}
  */
 var createHelloWorld = function() {
-    //arrow syntax
-    return () => "Hello World";
+    //arrow syntax + Rest arguments
+    return (...args) => "Hello World";
 };
 
 /**
