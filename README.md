@@ -88,6 +88,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3248-snake-in-matrix](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3248-snake-in-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3689-maximum-total-subarray-value-i) |
@@ -168,6 +169,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3248-snake-in-matrix](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3248-snake-in-matrix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3617-find-the-original-typed-string-i) |
@@ -383,6 +385,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2751-robot-collisions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2751-robot-collisions) |
+| [3248-snake-in-matrix](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3248-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
