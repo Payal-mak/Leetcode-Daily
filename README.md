@@ -39,6 +39,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0724-find-pivot-index) |
@@ -334,6 +335,7 @@
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1390-four-divisors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1390-four-divisors) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -362,6 +364,7 @@
 | [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0977-squares-of-a-sorted-array) |
