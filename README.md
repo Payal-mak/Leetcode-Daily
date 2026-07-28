@@ -314,6 +314,7 @@
 | [0189-rotate-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1390-four-divisors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1390-four-divisors) |
