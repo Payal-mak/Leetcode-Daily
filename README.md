@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0056-merge-intervals) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0125-valid-palindrome) |
