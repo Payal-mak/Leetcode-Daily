@@ -258,6 +258,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0743-network-delay-time](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
@@ -497,6 +498,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0761-special-binary-string) |
@@ -504,6 +506,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
@@ -552,6 +555,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
