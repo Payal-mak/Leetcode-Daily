@@ -1,15 +1,23 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
-        unordered_map<int,int> mpp;
-        for(int i = 0; i < numbers.size(); i++){
-            int first = numbers[i];
-            int second = target - first;
-            if(mpp.find(second) != mpp.end()){
-                return {mpp[second]+1,i+1};
+        //without using extra space
+        //using two pointers approach
+        //as the array is already sorted, then we can check for two pointers
+        int l = 0;
+        int r = numbers.size()-1;
+        while(l < r){
+            int sum = numbers[l] + numbers[r];
+            if(sum == target){
+                return {l+1, r+1};
             }
-            mpp[first] = i;
+            else if(sum < target){
+                l++;
+            }
+            else{
+                r--;
+            }
         }
-        return {1,2};
+        return{1,2};
     }
 };
