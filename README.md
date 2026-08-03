@@ -192,6 +192,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0204-count-primes) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2427-number-of-common-factors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -351,6 +352,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2427-number-of-common-factors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2544-alternating-digit-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3536-maximum-product-of-two-digits](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3536-maximum-product-of-two-digits) |
@@ -549,6 +551,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -589,4 +592,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0204-count-primes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
