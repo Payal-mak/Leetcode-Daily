@@ -577,4 +577,16 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
