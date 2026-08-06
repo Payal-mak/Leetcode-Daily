@@ -1,22 +1,23 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string res = "";
-        for(int i = 0; i < s.size(); i++){
+        int sz = s.size()-1;
+        string t = "";
+        string original = "";
+        for(int i = sz; i>=0; i--){
             if(isalnum(s[i])){
-                res += tolower(s[i]);
+                t += tolower(s[i]);
             }
         }
-        int i = 0;
-        int j = res.size()-1;
-        while(i < j){
-            if(res[i] != res[j]){
-                return false;
-                break;
+        // for(int i = 0; i<t.size(); i++){
+        //     cout << t[i];
+        // }
+        for(int i = 0; i<s.size(); i++){
+            if(isalnum(s[i])){
+                original += tolower(s[i]);
             }
-            i++;
-            j--;
         }
-        return true;
+        
+        return original == t;
     }
 };
