@@ -156,6 +156,7 @@
 | [0125-valid-palindrome](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0392-is-subsequence) |
@@ -215,6 +216,7 @@
 | [0205-isomorphic-strings](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -375,6 +377,7 @@
 | [0088-merge-sorted-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
