@@ -602,4 +602,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
