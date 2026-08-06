@@ -194,6 +194,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2427-number-of-common-factors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Union Find
@@ -355,6 +356,7 @@
 | [2427-number-of-common-factors](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2544-alternating-digit-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
