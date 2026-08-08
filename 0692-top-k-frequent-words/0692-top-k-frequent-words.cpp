@@ -7,14 +7,15 @@ public:
             freq[s]++;
         }
         vector<pair<int, string>> v;
-        //sort by most frequent elements
         for(auto &it : freq){
-            v.push_back({-it.second, it.first});
+            v.push_back({it.second, it.first});
         }
-        sort(v.begin(), v.end());
-        // for(auto p : v){
-        //     cout << p.second << " ";
-        // }
+        sort(v.begin(), v.end(), [](auto &a, auto &b){
+            if(a.first != b.first){
+                return a.first > b.first;
+            }
+            return b.second > a.second;
+        });
         for(int i = 0; i<k; i++){
             ans.push_back(v[i].second);
         }
