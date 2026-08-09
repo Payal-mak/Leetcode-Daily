@@ -621,4 +621,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
