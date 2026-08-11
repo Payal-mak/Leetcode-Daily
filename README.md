@@ -91,6 +91,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2784-check-if-array-is-good) |
+| [2942-find-words-containing-character](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2942-find-words-containing-character) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -182,6 +183,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2942-find-words-containing-character](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2942-find-words-containing-character) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Payal-mak/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3248-snake-in-matrix](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3248-snake-in-matrix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Payal-mak/Leetcode-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
