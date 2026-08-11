@@ -31,6 +31,7 @@
 | [0238-product-of-array-except-self](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
@@ -138,6 +139,7 @@
 | [0189-rotate-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0977-squares-of-a-sorted-array) |
@@ -223,6 +225,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -337,6 +340,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1612-avoid-flood-in-the-city) |
@@ -389,6 +393,7 @@
 | [0217-contains-duplicate](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
