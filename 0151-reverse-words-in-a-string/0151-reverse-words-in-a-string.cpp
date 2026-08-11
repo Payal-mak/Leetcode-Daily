@@ -1,22 +1,20 @@
-#include <sstream>
 class Solution {
 public:
     string reverseWords(string s) {
-        //ex: s = "the sky is blue"
-        //"eulb si yks eht"
-        reverse(s.begin(), s.end());
+        int n = s.size();
         string ans = "";
-
-        //now we will again reverse individual word
-        for(int i = 0; i < s.size();i++){
+        //first reverse the whole string
+        reverse(s.begin(), s.end());
+        //now reverse the individual words
+        for(int i = 0; i<n; i++){
             string word = "";
-            while(i < s.size() && s[i] != ' '){
+            while(i < n and s[i] != ' '){
                 word += s[i];
                 i++;
             }
             reverse(word.begin(), word.end());
             if(word.length() > 0){
-                ans += " " + word;
+                ans += " "+word;
             }
         }
         return ans.substr(1);
