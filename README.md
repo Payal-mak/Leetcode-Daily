@@ -49,6 +49,7 @@
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -344,6 +345,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
