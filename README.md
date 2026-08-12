@@ -58,6 +58,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -343,6 +344,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Payal-mak/Leetcode-Daily/tree/master/0794-swim-in-rising-water) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Payal-mak/Leetcode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
